@@ -1,0 +1,22 @@
+.link {
+    background-color: #fff;
+    border: none;
+}
+
+.link ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 48px;
+    margin: 0 auto; 
+}
+
+.link li {
+    margin: 0 28px;
+}
+
+.link li p{
+    font-size: 24px;
+    font-weight: 400;
+    color: #1f1f1f;
+}
